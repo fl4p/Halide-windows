@@ -1,0 +1,5 @@
+/clang-build/
+/clang/
+CMakeFiles
+*.build/
+/llvm/
